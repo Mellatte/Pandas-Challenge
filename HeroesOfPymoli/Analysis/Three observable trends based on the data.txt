@@ -1,0 +1,7 @@
+Three observable trends based on the data.
+
+(1) Males are majority of players and they are in an age of between 20 to 24. And they are spending most money in total in this HeroesOfPymoli game 
+
+(2) The average perchase per female players are higher than male players, $3.20 vs $3.02, on average. 
+
+(3) Age between 35 to 39 spends the most with an average of $4.76 per person and kids who are less than 10 are also big spenders too with an average of $4.54 per person.
